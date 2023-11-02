@@ -7,7 +7,7 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Our Clients Get Published On
+# Our Clients
 
 
 Quedic PR is proud to represent some of the most groundbreaking and distinctive projects currently driving the blockchain technology sector.
