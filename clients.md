@@ -1,7 +1,7 @@
 ---
-title: CLIENTS
+title: Clients
 layout: clients
-description: CLIENTS
+description: Clients
 permalink: "/clients/"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
