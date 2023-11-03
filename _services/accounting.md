@@ -6,7 +6,7 @@ weight: 1
 
 Leveraging the freshness of the Web3 market, our Web3 crypto public relations service aims to establish your business as one of the most innovative leaders in the industry by shaping a consistent and approachable brand image.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
 # Objectives
 
