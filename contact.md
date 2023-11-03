@@ -1,7 +1,7 @@
 ---
-title: Team
-layout: team
-description: team
+title: Contact
+layout: contact
+description: contact
 ---
 
 # Our Team
