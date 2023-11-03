@@ -6,7 +6,7 @@ weight: 3
 
 Quedic understands the critical role of platforms such as Twitter, Telegram, and Instagram in blockchain marketing. Our offerings include social media management and boosting your positive impact, with a relentless commitment to ensuring that your company's products are captivating and full of vitality.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/smccs.jpg)
 
 # Objectives
 
