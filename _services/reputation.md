@@ -6,7 +6,7 @@ weight: 7
 
 Quedic is a leading crypto, NFT, web3, and metaverse marketing agency that’s helped some of the top projects in crypto create buzz, grow a digital community, and connect with influencers & investors.Our community-driven crypto marketing builds social proof like nothing else.
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/Reputation.jpg)
 
 # Objectives
 
