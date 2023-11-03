@@ -9,5 +9,5 @@ Quedic, your global asset growth engine, partners with the world's top market ca
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 # Objectives
-
+Join us and connect with over 100 of the world's top cryptocurrency exchanges! Experience unprecedented trading volumes and liquidity, and watch as your token's value and market share soar to new heights. Choose us to unlock endless possibilities for your assets!
 
