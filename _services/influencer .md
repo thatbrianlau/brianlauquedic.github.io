@@ -6,7 +6,7 @@ weight: 2
 
 As one of the top crypto PR agencies, we understand the power of influencers in today’s digital world and their ability to amplify your message far beyond traditional media outlets. That’s why we offer comprehensive influencer outreach programs designed to connect you with influential personalities who can effectively promote your product or service to their followers.  
 
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/influencer.jpg)
 
 # Objectives
 
