@@ -6,7 +6,7 @@ bodyClass: page-about
 ---
 
 
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
+![Accounting Services](/images/quedic.png)
 
 Quedic is a dynamic and forward-thinking public relations and content marketing firm, established with the vision to empower and elevate blockchain and cryptocurrency ventures. Since our inception, we have been at the forefront of the Web3 revolution, offering bespoke communication strategies that resonate with the core values of decentralization and innovation inherent in the blockchain space.
 
