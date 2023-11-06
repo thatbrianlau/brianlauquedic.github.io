@@ -12,10 +12,9 @@ Our media relations team, composed of experienced professionals, excels in worki
 
 Our robust network of relationships with top tier media outlets, is leveraged to boost your online presence. We don’t rely on breaking news to drive traffic and can obtain press even during industry downtime. When your company has exciting news or a compelling storyline, we’ll create a custom strategy to get you real press coverage.
 
-{% include partners.html %}
 
  <div class="partners-list">
-    <img src="https://marketacross.com/wp-content/themes/marketacross_wp_theme/images/partners/blacedgecapital.png">
+    <img src="https://marketacross.com/wp-content/themes/marketacross_wp_theme/images/partners/blacedgecapital.png"> <img src="https://marketacross.com/wp-content/themes/marketacross_wp_theme/images/partners/blacedgecapital.png">
     <img src="https://marketacross.com/wp-content/themes/marketacross_wp_theme/images/partners/inboundjunction.png">
     <img src="https://marketacross.com/wp-content/themes/marketacross_wp_theme/images/partners/web3foundations.png">
     <img src="https://marketacross.com/wp-content/themes/marketacross_wp_theme/images/partners/outlierventures.png">
@@ -32,5 +31,4 @@ Our robust network of relationships with top tier media outlets, is leveraged to
     <img src="https://marketacross.com/wp-content/themes/marketacross_wp_theme/images/partners/bl_news_u.png">
     <img src="https://marketacross.com/wp-content/themes/marketacross_wp_theme/images/partners/krypital_u.png">
     <img src="https://marketacross.com/wp-content/themes/marketacross_wp_theme/images/partners/axia_u.png">
-  </div>
-</div>
+
