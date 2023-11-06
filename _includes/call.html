@@ -1,11 +1,25 @@
 <div class="call">
   <div class="call-box-top">
-    {% if site.data.contact.X(twitter) %}
-        <div class="call-X(twitter)"><strong>X(twitter): </strong> {{ site.data.contact.phone }} </div>
+    {% if site.data.contact.twitter %}
+    <div class="call-item">
+      <strong>x(twitter): </strong>
+      <a href="{{ site.data.contact.twitter.url }}" target="_blank">
+        {{ site.data.contact.twitter.name }}
+      </a>
+    </div>
+    {% endif %}
+    {% if site.data.contact.telegram %}
+    <div class="call-item">
+      <strong>Telegram: </strong>
+      <a href="{{ site.data.contact.telegram.url }}" target="_blank">
+        {{ site.data.contact.telegram.name }}
+      </a>
+    </div>
     {% endif %}
     {% if site.data.contact.email %}
-    <div class="call-email"><strong>Email: </strong>
-      <a href="mailto:{{ .site.data.contact.email }}">
+    <div class="call-item">
+      <strong>Email: </strong>
+      <a href="mailto:{{ site.data.contact.email }}">
         {{ site.data.contact.email }}
       </a>
     </div>

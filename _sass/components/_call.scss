@@ -20,6 +20,12 @@
     padding: 20px;
     @include media-breakpoint-up(md) {
     }
+    .call-item {
+      margin-bottom: 8px;
+      &:last-child {
+        margin-bottom: 0;
+      }
+    }
   }
   .call-box-bottom {
     flex: auto;

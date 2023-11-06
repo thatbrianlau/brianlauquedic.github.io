@@ -11,3 +11,5 @@ Our media relations team, composed of experienced professionals, excels in worki
 # Objectives
 
 Our robust network of relationships with top tier media outlets, is leveraged to boost your online presence. We don’t rely on breaking news to drive traffic and can obtain press even during industry downtime. When your company has exciting news or a compelling storyline, we’ll create a custom strategy to get you real press coverage.
+
+{% include partners.html %}
