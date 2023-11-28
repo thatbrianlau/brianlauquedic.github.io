@@ -7,7 +7,7 @@ description: contact
 # Meet Our Team
 
 
-<center><img src="images/Vanessa Holmes.jpg" title="test"></center>
+<center><img src="https://www.quedic.com/images/Vanessa%20Holmes.jpg" title="test"></center>
 <br>
 
 ##  <center> Vanessa Holmes <center>
@@ -23,7 +23,7 @@ Vanessa's professional prowess and dedication to the company's mission have not 
 
 
 <div class="gallery-box">
-  <center><img src="images/WechatIMG784.jpg" title="test"></center>
+  <center><img src="https://www.quedic.com/images/WechatIMG784.jpg" title="test"></center>
 <br>
 </div>
 ##  <center> Brian Lau <center>
@@ -37,7 +37,7 @@ Under Brian's guidance, the company's marketing strategies are meticulously plan
 
 
 <div class="gallery-box">
-  <center><img src="images/lara.jpg" title="test"></center>
+  <center><img src="https://www.quedic.com//images/lara.jpg" title="test"></center>
 </div>
 ##  <center> Lara Chang <center>
 ## <center>Chief Content Officer <center>
