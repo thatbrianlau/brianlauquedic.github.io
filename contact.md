@@ -23,7 +23,8 @@ Vanessa's professional prowess and dedication to the company's mission have not 
 
 
 <div class="gallery-box">
-  ![Accounting Services](/images/WechatIMG784.jpg)
+  <center><img src="images/WechatIMG784.jpg" title="test"></center>
+<br>
 </div>
 ##  <center> Brian Lau <center>
 ## <center>Co-Founder & CMO <center>
@@ -36,7 +37,7 @@ Under Brian's guidance, the company's marketing strategies are meticulously plan
 
 
 <div class="gallery-box">
-  ![Accounting Services](/images/lara.jpg)
+  <center><img src="images/lara.jpg" title="test"></center>
 </div>
 ##  <center> Lara Chang <center>
 ## <center>Chief Content Officer <center>
