@@ -6,9 +6,8 @@ description: contact
 
 # Meet Our Team
 
-<div class="gallery-box">
- ![Accounting Services](/images/Vanessa Holmes.jpg)
-</div>
+![Accounting Services](/images/Vanessa Holmes.jpg)
+
 ##  <center> Vanessa Holmes <center>
 ## <center> CEO <center>
 
